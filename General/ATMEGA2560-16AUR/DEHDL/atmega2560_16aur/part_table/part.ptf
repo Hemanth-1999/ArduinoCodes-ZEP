@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'ATMEGA2560_16AUR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Microchip", "ATMEGA2560-16AUR" (!) = "", "QFP50P1600X1600X120-100N", "Quad Flat Packages", "556-ATMEGA2560-16AUR", "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/ATMEGA2560-16AUR?qs=6Dg1WZIWLC5tcX5fO8xzXQ%3D%3D", "ATMEGA2560-16AUR", "https://www.arrow.com/en/products/atmega2560-16aur/microchip-technology?region=nac", "Microchip Technology ATMEGA2560-16AUR, 8bit AVR Microcontroller, 16MHz, 256 kB Flash, 100-Pin TQFP", "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf", "1.2 mm"
+END_PART
+
+END.

@@ -1,0 +1,9 @@
+Manufacturer=Microchip
+PartNumber=ATMEGA2560-16AUR
+PartCategory=Integrated Circuit
+PackageCategory=Quad Flat Packages
+PinCount=100
+Version=1.1
+Released=2019-02-15 17:35:18
+Downloaded=2022-07-22 07:30:24
+3D=Y

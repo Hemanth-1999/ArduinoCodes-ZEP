@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ATMEGA2560-16AUR
+D Microchip Technology ATMEGA2560-16AUR, 8bit AVR Microcontroller, 16MHz, 256 kB Flash, 100-Pin TQFP
+K
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-2549-8-bit-AVR-Microcontroller-ATmega640-1280-1281-2560-2561_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

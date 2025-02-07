@@ -1,0 +1,20 @@
+.DS_Store
+*.sublime-project
+*.sublime-workspace
+/flashtool/flashtool
+tests/
+
+*.o
+*.bin
+*.a
+*.l68
+*.s68
+*.map
+*.lst
+/projects/progs/**/*.bin
+/uploader/*.bin
+
+# Ignored binary files
+uploader/uploader
+initial-flasher/host-flashtool/flashtool
+srec2srb/srec2srb
