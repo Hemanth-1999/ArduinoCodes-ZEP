@@ -1,1 +1,0 @@
-Refer this link for more details : https://www.instructables.com/Power-Monitoring-System-Using-Pzem-004t-and-Bharat/

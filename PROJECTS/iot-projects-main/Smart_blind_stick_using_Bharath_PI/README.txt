@@ -1,1 +1,0 @@
-Refer this link : https://www.instructables.com/Smart-Blind-Stick-With-Bharath-Pi/ 
